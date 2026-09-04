@@ -1,6 +1,6 @@
 import React from "react";
 
-function ProductList() {
+function App() {
   const products = ["Laptop", "Mobile", "Headphones", "Keyboard"];
 
   return (
@@ -15,5 +15,5 @@ function ProductList() {
   );
 }
 
-export default ProductList;
+export default App;
   
